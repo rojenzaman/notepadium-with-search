@@ -31,4 +31,4 @@ You can use [forestry.io](https://forestry.io) to content managing. It will unde
 
 The both theme are under free software licenses and they includes 100% free JavaScript licenses. You feel free when using these themes.
 
-See licenses: [hugo-notepadium/LICENSE](https://github.com/rojenzaman/notepadium-with-search/blob/main/themes/hugo-notepadium/LICENSE) | [hugo-search-fuse-js/LICENSE](https://github.com/rojenzaman/notepadium-with-search/blob/main/themes/hugo-search-fuse-js/LICENSE)
+See licenses: [hugo-notepadium/LICENSE](themes/hugo-notepadium/LICENSE) | [hugo-search-fuse-js/LICENSE](themes/hugo-search-fuse-js/LICENSE)
